@@ -15,17 +15,41 @@ namespace User_login
         public Login()
         {
             InitializeComponent();
-            test1.Text = "";
-            test2.Text = "";
-            string username = Register.finalusername;
-            string password = Register.finalpass;
-            test1.Text = username;
-            test2.Text = password;
+            pictureBox1.Visible = false;
         }
 
         private void test1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (User.finalusername == Username.Text && User.finalpass == Password.Text)
+            {
+                MessageBox.Show("Succesfully logged in!");
+                pictureBox1.Visible = true;
+            }
+            else if (User.finalusername != Username.Text)
+            {
+                MessageBox.Show("Incorrect username/ Username not found");
+            }
+            else if (User.finalpass != Password.Text)
+            {
+                MessageBox.Show("Incorrect password/ Password not found");
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 form = new Form1();
+            form.ShowDialog();
         }
     }
 }

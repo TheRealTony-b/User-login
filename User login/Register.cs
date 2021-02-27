@@ -54,8 +54,8 @@ namespace User_login
             if (Password1.Text == Password2.Text && Username.Text != "" && Password1.Text != "")
             {
                 MessageBox.Show("Account created with sucess!");
-                finalusername = Username.Text;
-                    finalpass = Password1.Text;
+                User.finalusername = Username.Text;
+                    User.finalpass = Password1.Text;
             }
             if (Password1.Text == "")
             {
@@ -68,7 +68,6 @@ namespace User_login
             }
 
         }
-        public static string finalusername;
-        public static string finalpass;
+
     }
 }

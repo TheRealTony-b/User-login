@@ -9,3 +9,4 @@ C:\Users\Antoi\source\repos\User login\User login\obj\Release\User login.csproj.
 C:\Users\Antoi\source\repos\User login\User login\obj\Release\User login.csproj.CoreCompileInputs.cache
 C:\Users\Antoi\source\repos\User login\User login\obj\Release\User login.exe
 C:\Users\Antoi\source\repos\User login\User login\obj\Release\User login.pdb
+C:\Users\Antoi\source\repos\User login\User login\obj\Release\User login.csprojAssemblyReference.cache
