@@ -10,7 +10,7 @@ namespace User_login
     class User
     {
 
-        public static string finalusername { get; set; }
-        public static string finalpass { get; set; }
+        public static string finalusername;
+        public static string finalpass;
     }
 }
