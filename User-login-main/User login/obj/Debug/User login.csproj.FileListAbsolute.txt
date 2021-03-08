@@ -1,0 +1,24 @@
+C:\Users\Antoi\source\repos\User login\User login\bin\Debug\User login.exe.config
+C:\Users\Antoi\source\repos\User login\User login\bin\Debug\User login.exe
+C:\Users\Antoi\source\repos\User login\User login\bin\Debug\User login.pdb
+C:\Users\Antoi\source\repos\User login\User login\obj\Debug\User login.csprojAssemblyReference.cache
+C:\Users\Antoi\source\repos\User login\User login\obj\Debug\User_login.Form1.resources
+C:\Users\Antoi\source\repos\User login\User login\obj\Debug\User_login.Properties.Resources.resources
+C:\Users\Antoi\source\repos\User login\User login\obj\Debug\User login.csproj.GenerateResource.cache
+C:\Users\Antoi\source\repos\User login\User login\obj\Debug\User login.csproj.CoreCompileInputs.cache
+C:\Users\Antoi\source\repos\User login\User login\obj\Debug\User login.exe
+C:\Users\Antoi\source\repos\User login\User login\obj\Debug\User login.pdb
+C:\Users\Antoi\source\repos\User login\User login\obj\Debug\User_login.Register.resources
+C:\Users\Antoi\source\repos\User login\User login\obj\Debug\User_login.Login.resources
+C:\Users\Antoi\Desktop\User-login-main\User login\bin\Debug\User login.exe.config
+C:\Users\Antoi\Desktop\User-login-main\User login\bin\Debug\User login.exe
+C:\Users\Antoi\Desktop\User-login-main\User login\bin\Debug\User login.pdb
+C:\Users\Antoi\Desktop\User-login-main\User login\obj\Debug\User login.csprojAssemblyReference.cache
+C:\Users\Antoi\Desktop\User-login-main\User login\obj\Debug\User_login.Form1.resources
+C:\Users\Antoi\Desktop\User-login-main\User login\obj\Debug\User_login.Login.resources
+C:\Users\Antoi\Desktop\User-login-main\User login\obj\Debug\User_login.Properties.Resources.resources
+C:\Users\Antoi\Desktop\User-login-main\User login\obj\Debug\User_login.Register.resources
+C:\Users\Antoi\Desktop\User-login-main\User login\obj\Debug\User login.csproj.GenerateResource.cache
+C:\Users\Antoi\Desktop\User-login-main\User login\obj\Debug\User login.csproj.CoreCompileInputs.cache
+C:\Users\Antoi\Desktop\User-login-main\User login\obj\Debug\User login.exe
+C:\Users\Antoi\Desktop\User-login-main\User login\obj\Debug\User login.pdb
